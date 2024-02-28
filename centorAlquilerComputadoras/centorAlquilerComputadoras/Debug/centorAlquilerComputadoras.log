@@ -1,0 +1,3 @@
+﻿  centorAlquilerComputadoras.cpp
+C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\ejerciciosEnCasa\centorAlquilerComputadoras\centorAlquilerComputadoras\centorAlquilerComputadoras.cpp(19,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  centorAlquilerComputadoras.vcxproj -> C:\Users\pablo\OneDrive\Documentos\INA\Desarrollo de aplicaciones\PracticaC++\ejerciciosEnCasa\centorAlquilerComputadoras\Debug\centorAlquilerComputadoras.exe
